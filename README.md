@@ -2,9 +2,9 @@
 This is the capstone project of the META Database Engineer course
 
 ### Description
-This repository contains the necessary instructions to set up a MySQL database for Little Lemon Restaurant, how to create and call stored procedures using a connection pool in Python with MySQL database and instructions for Little Lemon's analysis and sales report.
+This repository contains the necessary instructions to set up a MySQL database for Little Lemon Restaurant, how to create and call stored procedures using a connection pool in Python with MySQL database and instructions for Little Lemon's analysis and sales report in Tableau.
 
-The provided code creates and configures tables for MenuItems, Menus, Bookings, Orders, and Employees, and populates them with sample data, creates stored procedures, named "PeakHours" and "GuestStatus",designed to perform specific tasks related to Little Lemon Restaurant and provides details on how to establish a connection pool, insert data into the Bookings table, create reports, and display upcoming bookings on the kitchen screen.
+The provided code creates and configures tables for MenuItems, Menus, Bookings, Orders, and Employees, and populates them with sample data, creates stored procedures, named "PeakHours" and "GuestStatus",designed to perform specific tasks related to Little Lemon Restaurant and provides details on how to establish a connection pool, insert data into the Bookings table, create reports, display upcoming bookings on the kitchen screen and create a visual report in Tableau.
 
 ### Prerequisites
 Before running the code, ensure that you have the following:
